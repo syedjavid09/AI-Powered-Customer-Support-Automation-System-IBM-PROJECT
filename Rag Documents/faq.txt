@@ -1,0 +1,16 @@
+Frequently Asked Questions
+
+Q: How do I upgrade my subscription?
+A: Go to Billing → Subscription → Upgrade Plan.
+
+Q: How can I change my email?
+A: Open Account Settings and update your email address.
+
+Q: How do I cancel my subscription?
+A: Submit a cancellation request from the Billing page.
+
+Q: How long do refunds take?
+A: Refunds are processed within 5 business days after approval.
+
+Q: Can I delete my account?
+A: Yes. Identity verification is required before account deletion.

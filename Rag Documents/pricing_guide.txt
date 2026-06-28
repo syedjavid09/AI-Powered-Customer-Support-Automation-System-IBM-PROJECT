@@ -1,0 +1,17 @@
+ABC Technologies Pricing Guide
+Basic Plan
+* 500/month
+* Up to 5 users
+* Email support
+Professional Plan
+* 100/month
+* Up to 25 users
+* Priority email support
+* Advanced reporting
+Enterprise Plan
+* 1500/month
+* Unlimited users
+* Dedicated account manager
+* 24/7 support
+* API access
+* Advanced analytics

@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-community
+langchain-groq
+langchain-ollama
+langchain-text-splitters
+chromadb
+sentence-transformers
+python-dotenv
+pypdf
+typing_extensions

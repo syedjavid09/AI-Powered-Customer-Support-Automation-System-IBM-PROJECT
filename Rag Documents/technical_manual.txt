@@ -1,0 +1,32 @@
+ABC Technologies Technical Manual
+
+Password Reset
+
+1. Click "Forgot Password".
+2. Enter your registered email.
+3. Open the password reset email.
+4. Create a new password.
+5. Login using the new password.
+
+Login Issues
+
+* Verify your email address.
+* Check your internet connection.
+* Clear browser cache.
+* Try another browser.
+
+Application Errors
+
+Restart the application.
+Update to the latest version.
+Contact technical support if the issue continues.
+
+File Upload Issues
+
+If the application crashes while uploading a file:
+
+• Ensure the file size is within the supported limit.
+• Verify the file format is supported.
+• Restart the application.
+• Update to the latest version.
+• Contact technical support if the issue persists.
